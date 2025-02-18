@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\MyMvcApp.csproj": {}
+    "c:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\MyMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\MyMvcApp.csproj": {
+    "c:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\MyMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\MyMvcApp.csproj",
+        "projectUniqueName": "c:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\MyMvcApp.csproj",
         "projectName": "MyMvcApp",
-        "projectPath": "C:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\MyMvcApp.csproj",
+        "projectPath": "c:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\MyMvcApp.csproj",
         "packagesPath": "C:\\Users\\azureuser\\.nuget\\packages\\",
-        "outputPath": "C:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\obj\\",
+        "outputPath": "c:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\azureuser\\AppData\\Roaming\\NuGet\\NuGet.Config"

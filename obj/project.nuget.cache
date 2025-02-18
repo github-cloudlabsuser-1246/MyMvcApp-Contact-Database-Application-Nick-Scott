@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fRMD/1fjsJg=",
+  "dgSpecHash": "XS8yRkot54Q=",
   "success": true,
-  "projectFilePath": "C:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\MyMvcApp.csproj",
+  "projectFilePath": "c:\\CopilotTraining\\MyMvcApp-Contact-Database-Application-Nick-Scott\\MyMvcApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\azureuser\\.nuget\\packages\\microsoft.codedom.providers.dotnetcompilerplatform\\4.1.0\\microsoft.codedom.providers.dotnetcompilerplatform.4.1.0.nupkg.sha512",
     "C:\\Users\\azureuser\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
